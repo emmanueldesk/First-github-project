@@ -155,11 +155,12 @@ nav {
     flex: 1;
     display: flex;
     align-items: center;
+    justify-content: center;
   
     }
 
 .about-me__img{
-    width: 100%;
+    width: 50%;
     padding-top: 50px;
 }
 
